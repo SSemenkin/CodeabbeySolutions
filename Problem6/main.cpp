@@ -12,8 +12,7 @@ int main()
     for (int i = 0; i < count; ++i) {
         std::cin >> a >> b;
 
-        a /= b;
-        std::cout << round(a) << ' ';
+        std::cout << round(a / b) << ' ';
     }
 
 
