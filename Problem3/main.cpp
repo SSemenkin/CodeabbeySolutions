@@ -3,17 +3,16 @@
 int main()
 {
     int count;
-    int sum = 0;
-    int buffer;
+    int a;
+    int b;
 
     std::cin >> count;
 
     for (int i = 0; i < count; ++i) {
-        std::cin >> buffer;
-        sum += buffer;
+        std::cin >> a >> b;
+        std::cout << a + b << ' ';
     }
 
-    std::cout << sum << '\n';
 
     return 0;
 }
