@@ -4,6 +4,7 @@ SUBDIRS += \
     Problem11 \
     Problem1\
     Problem2\
+    Problem30 \
     Problem3\
     Problem4\
     Problem5\
