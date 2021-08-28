@@ -6,6 +6,7 @@ SUBDIRS += \
     Problem2\
     Problem30 \
     Problem3\
+    Problem47 \
     Problem4\
     Problem5\
     Problem6\
