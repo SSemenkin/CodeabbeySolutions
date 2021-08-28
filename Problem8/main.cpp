@@ -14,7 +14,7 @@ int sum_of_member_progression(int init_value,
 
 int main()
 {
-    assert((sum_of_member_progression(5, 2, 3) == 21) && "test not passed");
+    assert((sum_of_member_progression(5, 2, 3) == 21) && "test not passed.");
     int tests;
     int init_value;
     int step;
