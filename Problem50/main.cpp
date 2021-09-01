@@ -31,6 +31,7 @@ int main()
     int cases;
     std::string input;
 
+
     std::cin >> cases;
     std::cin.ignore();
 
